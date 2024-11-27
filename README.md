@@ -28,7 +28,7 @@
 <a href="https://instagram.com/saadhtiwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadhtiwana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saadhayat799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saadhayat799" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saadhtiwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saadhtiwana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saadhtiwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saadhtiwan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saadhtiwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saadhtiwan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
