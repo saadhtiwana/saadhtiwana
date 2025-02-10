@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b4b30dc46b80a628d4f36dfd48a312c6f997d0f/68747470733a2f2f63686b736b696c6c732e636f6d2f6173736574732f636f64696e672d667265616b2e676966)
+![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hey%2C+I'm+Malik+Saad+Hayat!;Full-Stack+MERN+Developer+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&width=600&lines=Hey%2C+I'm+Malik+Saad+Hayat!;Full-Stack+MERN+Developer+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A4%96;Building+the+Future+One+Line+at+a+Time!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,14 +11,14 @@
 ---
 
 ## 🚀 About Me  
-🎯 **Tech Warrior:** Full-Stack MERN Dev | AI Engineer | Code Sorcerer 🧙‍♂️  
-🔥 **Currently Learning:** Generative AI | Web3 | DevOps Magic ⚡  
-🛠 **Tech Arsenal:** React ⚛ | Node.js 🚀 | TensorFlow 🧠 | MongoDB 🏢  
-💡 **Fun Fact:** My code runs faster than my brain processes errors. 😆  
+🎯 **Tech Gladiator:** Full-Stack MERN Dev | AI Engineer | Future CTO 😎  
+🔥 **Currently Exploring:** Generative AI | Web3 | DevOps & Cloud Magic ☁️  
+🛠 **Tech Arsenal:** React ⚛ | Node.js 🚀 | TensorFlow 🧠 | MongoDB 📦  
+💡 **Fun Fact:** My code runs faster than my WiFi. 😆  
 
 ---
 
-## 🎨 My Skillset 🛠  
+## 🎨 My Superpowers 🛠  
 
 ### **Frontend:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -30,8 +30,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### **Databases:**  
+### **Databases & DevOps:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **AI & Machine Learning:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -41,9 +42,11 @@
 
 ## 📈 GitHub Stats 🚀  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadhtiwana&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadhtiwana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhtiwana&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhtiwana&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhtiwana&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -55,4 +58,4 @@
 
 ---
 
-✨ **Keep Coding. Keep Innovating.** 😎🔥
+✨ **Keep Coding. Keep Innovating. Stay Legendary.** 😎🔥
