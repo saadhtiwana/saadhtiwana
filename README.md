@@ -61,13 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhtiwana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 🚀 Cool Projects:
-- 🔥 **AI-Powered Chatbot:** Built with OpenAI's API & LangChain  
-- 🛒 **E-commerce Website:** Full-fledged MERN stack store  
-- 📊 **Data Visualization Dashboard:** Real-time analytics powered by AI  
-- 🎮 **Game Development:** Interactive coding games for learning  
 
 ---
 
