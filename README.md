@@ -43,8 +43,9 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,git,linux,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,git,linux,docker,figma,tailwind,bootstrap,postgres,motoko" />
 </p>
+
 
 ### 🛠️ What I Do:
 ✔ **Front-End:** React.js, HTML, CSS, Tailwind, Redux  
