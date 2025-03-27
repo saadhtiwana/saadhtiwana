@@ -47,11 +47,11 @@
 </p>
 
 
+
 ### 🛠️ What I Do:
 ✔ **Front-End:** React.js, HTML, CSS, Tailwind, Redux  
 ✔ **Back-End:** Node.js, Express.js, MongoDB, Firebase  
-✔ **AI & ML:** Python, OpenAI, TensorFlow, LangChain  
-✔ **Other Tools:** GitHub, Docker, Linux  
+✔ **Other Tools:** GitHub, Docker, Linux, Motoko
 
 ---
 
