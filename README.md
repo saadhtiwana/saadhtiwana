@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 <h1 align="center">Hey there! 👋 I'm Saad Tiwana</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack Specialist | Generative AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=700&height=50&lines=Passionate+about+building+things+that+work!;Turning+coffee+into+code...+and+bugs.;Web+Development+%7C+AI+%7C+MERN+Stack;100%25+Debugging%2C+0%25+Regret!+%F0%9F%98%8E" />
