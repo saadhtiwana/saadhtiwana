@@ -30,7 +30,7 @@ const softwareEngineer = {
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind" />
 
 ### **Backend Engineering**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=java" height="40" />
