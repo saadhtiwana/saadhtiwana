@@ -30,7 +30,14 @@ const softwareEngineer = {
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind" />
 
 ### **Backend Engineering**
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,restapi, graphql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" />
+</p>
+
 
 ### **Databases & Storage**
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
