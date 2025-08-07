@@ -9,19 +9,6 @@
 </div>
 
 
-## 🧭 **Portfolio**
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saadhtiwana-dev.vercel.app)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
 
 
 ## 🧠 **Professional Overview**
@@ -35,6 +22,18 @@ const softwareEngineer = {
     mindset: "Scale First. Optimize Always."
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+## 🧭 **Portfolio**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saadhtiwana-dev.vercel.app)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
