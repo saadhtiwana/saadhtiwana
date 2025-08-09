@@ -58,8 +58,3 @@ Tools: IntelliJ IDEA • VS Code • Postman • Docker Desktop • AWS CLI
 ║  Develop → Test → Deploy → Iterate       ║
 ╚══════════════════════════════════════════╝
 ```
-
-```
-
-If you want I can also prepare the **neofetch-style README** so it will display your skills exactly like Linux system specifications with installed packages listed. That will look even more technical and minimal.
-```
