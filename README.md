@@ -24,7 +24,7 @@ const profile = {
 
 ## Technical Expertise
 
-**Frontend Development** <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind" />
+**Frontend Development** <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind" />
 
 **Backend Engineering** <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql" />
 
