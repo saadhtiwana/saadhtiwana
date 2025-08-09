@@ -30,7 +30,7 @@ const profile = {
 
 **Databases** <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 
-**Cloud and DevOps** <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,git,linux" />
+**Cloud and DevOps** <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
 AWS – in progress
 
 ---
