@@ -1,6 +1,9 @@
 <div align="center">
+
 # Full Stack Engineer
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Working+on+Production+Systems;Learning+AWS;Building+for+Scale" />
+
 </div>
 
 ---
