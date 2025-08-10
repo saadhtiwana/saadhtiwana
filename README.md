@@ -19,18 +19,21 @@ const profile = {
 };
 ````
 
----
-
 ## Technical Expertise
+
 **Frontend Development** <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind" />
+
 **Backend Engineering** <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql" />
+
 **Databases** <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-**Cloud and DevOps** <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
+
+**Cloud and DevOps** <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />  
 AWS – in progress
 
 ---
 
 ## Development Environment
+
 <img src="https://skillicons.dev/icons?i=vscode,vim,postman,figma,notion" />  
 Tools: IntelliJ IDEA • VS Code • Postman • Docker Desktop • AWS CLI
 
