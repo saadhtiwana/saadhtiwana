@@ -50,6 +50,13 @@ Tools: IntelliJ IDEA • VS Code • Postman • Docker Desktop • AWS CLI
 
 ---
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600"/>
+</p>
+
+---
+
 ## Engineering Approach
 > Build systems that scale and code that remains maintainable over time
 ```
@@ -57,7 +64,3 @@ Tools: IntelliJ IDEA • VS Code • Postman • Docker Desktop • AWS CLI
 ║  Develop → Test → Deploy → Iterate       ║
 ╚══════════════════════════════════════════╝
 ```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600"/>
-</p>
