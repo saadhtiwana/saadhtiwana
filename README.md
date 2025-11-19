@@ -1,15 +1,3 @@
-<div align="center">
-
-# Full Stack & DevOps Engineer
-
-```
-Building scalable systems • Automating infrastructure • Solving problems
-```
-
-</div>
-
----
-
 ## Stack
 
 **Development**  
