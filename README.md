@@ -35,3 +35,5 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://saadhtiwana-dev.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/saadhtiwana)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saadhayat799@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=saadhtiwana&style=flat-square&color=blue)
