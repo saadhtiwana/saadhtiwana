@@ -29,9 +29,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 
-<div align="center">
-  <img src="![GitHub Contribution Grid](./metrics.plugin.isocalendar.svg)" width="100%" alt="3D Contribution Graph"/>
-</div>
+![GitHub Contribution Grid](./metrics.plugin.isocalendar.svg)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-saad-hayat-276370277/)
