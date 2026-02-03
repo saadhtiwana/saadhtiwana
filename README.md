@@ -1,6 +1,5 @@
 ![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=saadhtiwana&stats=true&theme=minimal)
 
----
 
 ## Stack
 **Development**  
@@ -32,7 +31,6 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
----
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-saad-hayat-276370277/)
