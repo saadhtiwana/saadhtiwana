@@ -1,5 +1,3 @@
-
-
 ## Stack
 **Development**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,6 +29,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-saad-hayat-276370277/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://saadhtiwana-dev.vercel.app/)
@@ -40,4 +39,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saadhtiwana&style=flat-square&color=blue)
 
 ![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=saadhtiwana&stats=true&theme=minimal)
-
