@@ -38,4 +38,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saadhtiwana&style=flat-square&color=blue)
 
-![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=saadhtiwana&stats=true&theme=minimal)
+
