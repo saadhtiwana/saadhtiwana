@@ -1,5 +1,4 @@
-
-![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=saadhtiwana&stats=true&theme=github)
+![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=saadhtiwana&stats=true&theme=minimal)
 
 ---
 
@@ -37,4 +36,8 @@
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-saad-hayat-276370277/)
-[![Portfolio](https://img.shiel
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://saadhtiwana-dev.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/saadhtiwana)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saadhayat799@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=saadhtiwana&style=flat-square&color=blue)
