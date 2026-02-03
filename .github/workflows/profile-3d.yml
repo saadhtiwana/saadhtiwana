@@ -19,14 +19,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: |
             {
-              "type": "normal",
-              "contributionView": "isometric",
-              "showGraph": true,
-              "showCommitChart": false,
-              "showDailyCommitChart": false,
-              "showLanguageChart": false,
-              "showTimezoneChart": false,
-              "showTotalContributions": false
+              "type": "gitblock"
             }
           
       - name: Commit & Push
