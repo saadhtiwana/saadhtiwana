@@ -28,10 +28,13 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-
-![GitHub Contribution Grid](./metrics.plugin.isocalendar.svg)
+<div align="center">
+  <img src="./metrics.plugin.isocalendar.svg" width="900" alt="GitHub Contribution Grid"/>
+</div>
 
 ## Connect
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-saad-hayat-276370277/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://saadhtiwana-dev.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/saadhtiwana)
@@ -39,4 +42,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saadhtiwana&style=flat-square&color=blue)
 
-
+</div>
