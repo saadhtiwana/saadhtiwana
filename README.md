@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+  <img src="![GitHub Contribution Grid](./metrics.plugin.isocalendar.svg)" width="100%" alt="3D Contribution Graph"/>
 </div>
 
 ## Connect
