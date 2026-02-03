@@ -17,6 +17,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "type": "normal",
+              "contributionView": "isometric",
+              "showGraph": true,
+              "showCommitChart": false,
+              "showDailyCommitChart": false,
+              "showLanguageChart": false,
+              "showTimezoneChart": false,
+              "showTotalContributions": false
+            }
           
       - name: Commit & Push
         run: |
